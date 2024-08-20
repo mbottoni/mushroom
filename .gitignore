@@ -1,0 +1,15 @@
+
+
+
+
+__pycache__/*
+train.csv
+sample_submission.csv
+test.csv
+*.csv
+models/*
+catboost_info/*
+models/*
+
+
+
