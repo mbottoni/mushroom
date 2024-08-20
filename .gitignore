@@ -8,8 +8,9 @@ sample_submission.csv
 test.csv
 *.csv
 models/*
-catboost_info/*
+src/notebooks/catboost_info/*
 models/*
+*.pkl
 
 
 
