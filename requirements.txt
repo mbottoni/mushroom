@@ -5,4 +5,5 @@ matplotlib
 seaborn
 scikit-learn
 scipy
-xgboost
+xgboost==1.5.2
+hyperopt
